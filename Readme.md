@@ -11,7 +11,7 @@ Follow the steps below to set up and run the project locally.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Codewithakk/Secure-User-Management-Dashboard
+git clone [https://github.com/Codewithakk/Secure-User-Management-Dashboard](https://github.com/Codewithakk/Secure-User-Management-Dashboard.git)
 ````
 
 ### Step 2: Navigate into the Project Directory
@@ -55,4 +55,5 @@ Use the following credentials for testing login and registration functionality:
 * **Password:** `pistol`
 
 ---
+
 
